@@ -10,4 +10,4 @@ Although our system is still in alpha and far from complete, we’re planning to
 
 ## Join the Beta
 
-We’re planning to open a beta waitlist in the near future. Eventually, we plan to open source our model to allow maximum transparency and allow the community to contribute.
+We’re planning to open a beta waitlist in the near future. If you want to beta-test PNF, please [register your interest](https://rdr.fyi/pnfbeta). Eventually, we plan to open source our model to allow maximum transparency and allow the community to contribute.
